@@ -4,6 +4,9 @@
 
 > **Pain Past is Pleasure.**
 
-[![CuteLeon's github stats](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&show_icons=true)](https://github.com/CuteLeon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon)](https://github.com/CuteLeon)
+<a href="https://github.com/CuteLeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true" />
+</a>
+<a href="https://github.com/CuteLeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon" />
+</a>
