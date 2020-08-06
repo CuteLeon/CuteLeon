@@ -6,3 +6,4 @@
 
 [![CuteLeon's github stats](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&show_icons=true)](https://github.com/CuteLeon)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon)](https://github.com/CuteLeon)
