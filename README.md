@@ -4,8 +4,6 @@
 
 ***
 
-![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Dream.jpg)
-
 ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Banner.jpg)
 
 <a href="https://github.com/CuteLeon">
