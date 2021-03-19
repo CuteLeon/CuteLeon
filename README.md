@@ -1,4 +1,4 @@
-### Hi there 👋 I am Leon
+### Hi there 👋 I am Leon, Works on C# and .Net Core
 
 > **Pain Past is Pleasure.**
 
