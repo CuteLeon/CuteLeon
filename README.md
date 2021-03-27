@@ -1,4 +1,5 @@
-### Hi there 👋 I am Leon, Works on C# and .Net Core
+## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am Leon, Works on C# and .Net Core
 
 > **Pain Past is Pleasure.**
 
@@ -12,3 +13,6 @@
 <a href="https://github.com/CuteLeon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact" />
 </a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CuteLeon&theme=monokai&no-bg=true)](https://github.com/CuteLeon)
