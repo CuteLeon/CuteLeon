@@ -6,8 +6,12 @@
 ***
 
 <p align="center">
+
+  | 123  | 456  |
+  | ---- | ---- |
   
   ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/92e8647aly1fq8y5oa4lig20c80574eq.gif)
+  
   ![](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact)
   
@@ -15,6 +19,6 @@
   
   ![](https://activity-graph.herokuapp.com/graph?username=CuteLeon&theme=minimal)
   
-</p>
+  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/c2adb464tw1egwh9f0ibqg20dw0afx16.gif)
 
-![](https://raw.github.com/CuteLeon/CuteLeon/master/README/c2adb464tw1egwh9f0ibqg20dw0afx16.gif)
+</p>
