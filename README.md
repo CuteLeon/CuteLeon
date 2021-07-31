@@ -3,11 +3,11 @@
 
 > **Pain Past is Pleasure.**
 
+![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Leon.gif)
+
 ***
 
 <p align="center">
-
-  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/92e8647aly1fq8y5oa4lig20c80574eq.gif)
   
   ![](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact)
