@@ -5,14 +5,13 @@
 
 ***
 
-![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Banner.jpg)
-
-<a href="https://github.com/CuteLeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true&hide=contribs" />
-</a>
-<a href="https://github.com/CuteLeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact" />
-</a>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CuteLeon&theme=monokai&no-bg=true)](https://github.com/CuteLeon)
+<p align="center">
+  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Banner.jpg)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact)
+    
+  ![](https://github-profile-trophy.vercel.app/?username=CuteLeon&theme=monokai&no-bg=true&margin-w=5&column=7)
+  
+  ![](https://activity-graph.herokuapp.com/graph?username=CuteLeon&theme=minimal)
+</p>
