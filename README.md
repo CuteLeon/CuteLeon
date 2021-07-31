@@ -16,6 +16,6 @@
   
   ![](https://activity-graph.herokuapp.com/graph?username=CuteLeon&theme=minimal)
   
-  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/c2adb464tw1egwh9f0ibqg20dw0afx16.gif)
+  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Hand.gif)
 
 </p>
