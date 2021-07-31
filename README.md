@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Banner.jpg)
+  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/92e8647agw1faq6k1odrug20dw07h4qq.gif)
   
   ![](https://github-readme-stats.vercel.app/api?username=CuteLeon&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuteLeon&layout=compact)
