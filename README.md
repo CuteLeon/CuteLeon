@@ -15,7 +15,5 @@
   ![](https://github-profile-trophy.vercel.app/?username=CuteLeon&theme=monokai&no-bg=true&margin-w=5&column=7)
   
   ![](https://activity-graph.herokuapp.com/graph?username=CuteLeon&theme=minimal)
-  
-  ![](https://raw.github.com/CuteLeon/CuteLeon/master/README/Hand.gif)
 
 </p>
