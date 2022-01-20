@@ -2,7 +2,7 @@
 <p align="center">
    <img src="https://raw.github.com/CuteLeon/CuteLeon/master/README/Leon.gif" align="center"/>
    <p align="center">Pain Past is Pleasure.</p>
-   <p align="center">I am Leon, Works on C# and .Net Core</p>
+   <p align="center">I am Leon, Works on C# and .Net</p>
 </p>
 
 <p align="center">
